@@ -1,2 +1,2 @@
 # compton.conf
-Compton configuration for tear fix, also includes fading and shadows.
+Compton configuration for tear fix, it also includes fading and shadows.
